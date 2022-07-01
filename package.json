@@ -1,0 +1,17 @@
+{
+  "name": "schnorr-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "ecurve": "^1.0.6",
+    "ecurve-bn256": "^1.0.15",
+    "web3-eth-abi": "^1.7.4"
+  }
+}
